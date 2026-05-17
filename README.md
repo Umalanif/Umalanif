@@ -6,7 +6,7 @@
 | 🧠 **tech** | TypeScript, Node.js, Docker, Prisma, Crawlee, Playwright |
 | 💽 **data** | PostgreSQL, SQLite, Prisma ORM |
 | ⛓️ **infra** | Docker, GitHub Actions, self-hosted |
-| 🤖 **ai** | OpenRouter, Mistral, RAG pipelines |
+| 🤖 **ai** | OpenRouter, LLM, RAG pipelines |
 | 🎯 **focus** | web scraping · automation · Telegram bots · AI tools |
 
 ## Available for freelance work 
